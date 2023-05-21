@@ -10,12 +10,20 @@ Files contained:
 21 May 2023
 - PDF of Presentation Slides Added
 
-May 2023
-- TMDB API call file added (separated from central file)
+19 May 2023
+- SQL joined to $ data
+- Initial plots
 
-May 2023
+18 May 2023
+- TMDB API call file added (separated from central file)
 - MovieScriptAnalyzer file added (separated from central file)
 
-6 May 2023
+16 May 2023 
+- ROI, TMDB API Call, genre translation table
+
+14 May 2023
+- TDF-IF exploration
+
+12 May 2023
 - Repository Initiated
 
