@@ -6,6 +6,8 @@ Files contained:
 - TMDB API Call File (TMDB_APICall.ipynb): opens link to TMDB API to get a translation table for movie genres contained in TMDB database
 - Movie Script Analyzer(MovieScriptAnalyzer.ipynb): initial exploration into use CountVectorizer, TF-IDF, and NLP techniques to analyze potentail scripts
 - Phase 1 Exploration (Phase1Exploration.ipynb): This was an initial exploration notebook that contains sections of code removed in the Central File
+- FOLDER: ZippedData 
+- FOLDER: Visuals 
 
 21 May 2023
 - PDF of Presentation Slides Added
