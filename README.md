@@ -9,6 +9,9 @@ Files contained:
 - FOLDER: ZippedData 
 - FOLDER: Visuals 
 
+22 May 2023
+- Cleaned code uploaded as index.ipynb for submission
+
 21 May 2023
 - PDF of Presentation Slides Added
 
